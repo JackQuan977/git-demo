@@ -12,5 +12,5 @@ hello quanli! hello git!
 hello quanli! hello git!
 hello quanli! hello git!
 hello quanli! hello git!
-hello quanli! hello git!
-hello quanli! hello git!
+hello quanli! hello git! 
+hello quanli! hello git! hot-fix test`
